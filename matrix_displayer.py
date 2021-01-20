@@ -1,4 +1,7 @@
 # coding: utf-8
+# Released under the MIT licence https://opensource.org/licenses/mit-license.php
+# Copyright © 2021 Kazuki Akimoto. All right reserved.
+
 import numpy as np
 from lib import mylib
 
